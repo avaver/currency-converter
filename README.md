@@ -1,4 +1,4 @@
-# vue1
+# Currency Converter
 
 ## Project setup
 ```

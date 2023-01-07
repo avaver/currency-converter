@@ -19,7 +19,7 @@
     "@types/lodash": "^4.14.136",
     "@vue/cli-plugin-pwa": "^3.9.0",
     "@vue/cli-plugin-typescript": "^3.9.0",
-    "@vue/cli-service": "^3.9.3",
+    "@vue/cli-service": "^5.0.8",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "typescript": "^3.5.3",
